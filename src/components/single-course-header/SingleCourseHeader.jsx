@@ -93,38 +93,14 @@ function SingleCourseHeader({courseDetails, additionalDetails}) {
                                 </p>
                             </div>
                             <div className={styles.hide}>
-                                <section className={styles.priceAndOffer}>
-                                    <p className={styles.headerPrice}>
-										<span className={styles.bigPrice}>
-											E£199.99
-										</span>
-                                        <span className={styles.smallPrice}>
-											E£679.99
-										</span>
-                                        <span className={styles.offerSize}>
-											71% off
-										</span>
-                                    </p>
-                                    <p className={styles.timeRemaining}>
-                                        <i className='fa-regular fa-clock'></i>
-                                        <span className={styles.offerText}>
-											<span className={styles.bold}>
-												5 hours
-											</span>{' '}
-                                            left at this price!
-										</span>
-                                    </p>
-                                </section>
+                                
                                 <footer className={styles.previewFooter}>
                                     <button
                                         type='button'
                                         className={styles.addToCartButton}
                                     >
-                                        Add to cart
+                                        Enroll now
                                     </button>
-                                    <p className='text-center p-3 pb-0'>
-                                        30-Day Money-Back Guarantee
-                                    </p>
                                     <p className='text-center'>
                                         Full Lifetime Access
                                     </p>
@@ -136,9 +112,6 @@ function SingleCourseHeader({courseDetails, additionalDetails}) {
                                         </button>
                                         <button className={styles.footerButton}>
                                             Gift this course
-                                        </button>
-                                        <button className={styles.footerButton}>
-                                            Apply Coupon
                                         </button>
                                     </div>
                                 </footer>

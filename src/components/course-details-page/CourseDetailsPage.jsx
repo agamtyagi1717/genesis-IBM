@@ -53,7 +53,7 @@ function CourseDetailsPage({courseDetails}) {
                         <ReviewsSection details={additionalDetails}/>
                     </div>
                 </div>
-                <BuyCourseNavBar details={courseDetails}/>
+                {/* <BuyCourseNavBar details={courseDetails}/> */}
             </section>
         </main>
     ) : (

@@ -8,7 +8,7 @@ function Header() {
                 <article>
                     <p>New to Genesis? Lucky you.</p>
                     <p>
-                        Courses start at E£169.99.Get your new-student offer befort it expires.
+                    Unlock your potential with free, high-quality courses accessible to everyone, everywhere.
                     </p>
                 </article>
                 <figure>

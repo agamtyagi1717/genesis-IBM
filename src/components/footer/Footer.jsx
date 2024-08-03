@@ -18,7 +18,7 @@ function Footer() {
                         <p>agamtyagi1717@gmail.com</p>
                     </div>
                     <div>
-                        <p>Pawam Sahu</p>
+                        <p>Pawan Sahu</p>
                         <p>02196402721</p>
                         <p>pawansahu2060@gmail.com</p>
                     </div>
@@ -28,12 +28,12 @@ function Footer() {
                         <p>muditjain817@gmail.com</p>
                     </div>
                     <div>
-                        <p>Kk Gupta</p>
+                        <p>Kartikay Gupta</p>
                         <p>03714802721</p>
                         <p>kartikaygupta2808@gmail.com</p>
                     </div>
                     <div>
-                        <p>Sidhhant</p>
+                        <p>Siddhant</p>
                         <p>00714802721</p>
                         <p>sidvaidwal73@gmail.com</p>
                     </div>
